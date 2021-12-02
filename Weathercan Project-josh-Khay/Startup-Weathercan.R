@@ -1,8 +1,9 @@
 # Initialization --------------------------------------------------------------
-install.packages("")
+install.packages("weathercan")
 # ... any other packages
 
 library(readr)
+library(weathercan)
 library(ggplot2)
 # ... any other libraries
 

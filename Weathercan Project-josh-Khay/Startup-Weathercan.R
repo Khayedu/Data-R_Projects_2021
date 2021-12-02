@@ -1,10 +1,12 @@
 # Initialization --------------------------------------------------------------
 install.packages("weathercan")
+install.packages("dplyr")
 # ... any other packages
 
 library(readr)
 library(weathercan)
 library(ggplot2)
+library(dplyr)
 # ... any other libraries
 
 
